@@ -1,4 +1,7 @@
 "# Implemented Features" 
+#F-23: Corporate Billing and Invoicing System
+Enables corporate clients to receive consolidated invoices for multiple bookings with detailed billing records.
+*Status: Implemented*
 ## T-14: Dynamic pricing system
 The Dynamic Pricing feature automatically adjusts helicopter ride fares based on real-time demand, flight time, and weather conditions. This ensures fair pricing for users while optimizing operational efficiency and profitability for service providers. Pricing rules are managed by the system and updated dynamically before booking confirmation.
 **Status: Implemented**
