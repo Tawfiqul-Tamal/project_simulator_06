@@ -7,5 +7,7 @@ This task involves creating a payment form component with This task involves cre
 
 # F-20: Implement User Live Interactive Map (Route, Altitude & ETA Page
 This task involves creating The Live Interactive Map feature provides real-time visualization of helicopter flights, displaying the current route, altitude, and estimated time of arrival (ETA). This helps passengers, operators, and emergency teams monitor flight progress accurately and improves transparency and safety during travel.
+## F-19:Implement Real-Time GPS Tracking of Helicopters Page
+ This feature enables real-time GPS tracking of helicopters during flight, allowing passengers, operators, and emergency teams to monitor the helicopter’s live location, route, altitude, and estimated arrival time. It improves transparency, safety, and operational control throughout the journey.
 **Status: Implemented**
 
