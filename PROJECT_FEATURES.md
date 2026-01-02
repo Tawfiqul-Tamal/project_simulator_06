@@ -12,3 +12,7 @@ This task involves tracks the total flight hours of pilots and co-pilots for eac
 This task involvsautomatically notifies users about flight delays, rescheduling, or cancellations due to weather, technical, or operational reasons.
 *Status: Implemented*
 
+## F-25:Implement Discount Codes & Promotional Offers Page
+This feature allows the system to offer discount codes and promotional campaigns to users to increase customer engagement and bookings. Users can apply valid promo codes during payment to receive discounted fares, while administrators can create, manage, and control promotional rules and validity periods.
+**Status: Implemented**
+
