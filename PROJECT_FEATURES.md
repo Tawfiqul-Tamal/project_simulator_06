@@ -20,3 +20,7 @@ This feature allows the system to offer discount codes and promotional campaigns
 This feature ensures that users receive instant booking confirmation through SMS, email, and in-app notifications after successfully completing a reservation. It improves reliability, user confidence, and communication by clearly confirming booking details and flight information.
 **Status: Implemented**
 
+# F-16: Operator Dashboard for Aircraft Availability Management
+The Operator Dashboard allows helicopter service providers to monitor and manage the real-time availability of their aircraft. Operators can add, update, or disable helicopters based on operational status, maintenance schedules, and active bookings.
+**Status: Implemented**
+
