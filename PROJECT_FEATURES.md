@@ -20,6 +20,8 @@ This feature allows the system to offer discount codes and promotional campaigns
 This feature ensures that users receive instant booking confirmation through SMS, email, and in-app notifications after successfully completing a reservation. It improves reliability, user confidence, and communication by clearly confirming booking details and flight information.
 **Status: Implemented**
 
+# F-30: Implement Group Booking for Corporate Teams Page
+**Status: Implemented**
 ## F-29: Round-Trip & One-Way Booking Options
 This feature allows users to choose between one-way and round-trip helicopter bookings based on their travel needs. It provides flexible scheduling, clear pricing for each option, and seamless management of return journeys within a single booking flow.
 **Status: Implemented
