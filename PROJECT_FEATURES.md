@@ -35,4 +35,9 @@ This task involves creating The Live Interactive Map feature provides real-time 
 ## F-19:Implement Real-Time GPS Tracking of Helicopters Page
  This feature enables real-time GPS tracking of helicopters during flight, allowing passengers, operators, and emergency teams to monitor the helicopter’s live location, route, altitude, and estimated arrival time. It improves transparency, safety, and operational control throughout the journey.
 **Status: Implemented**
+# F-30: Implement Group Booking for Corporate Teams Page
+**Status: Implemented**
+## F-29: Round-Trip & One-Way Booking Options
+This feature allows users to choose between one-way and round-trip helicopter bookings based on their travel needs. It provides flexible scheduling, clear pricing for each option, and seamless management of return journeys within a single booking flow.
+**Status: Implemented
 
