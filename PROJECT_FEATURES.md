@@ -20,6 +20,8 @@ This feature allows the system to offer discount codes and promotional campaigns
 This feature ensures that users receive instant booking confirmation through SMS, email, and in-app notifications after successfully completing a reservation. It improves reliability, user confidence, and communication by clearly confirming booking details and flight information.
 **Status: Implemented**
 
+# F-28: Implement User Multi-City Route Planning (Single Booking) page
+This feature allows users to plan and book a helicopter journey that includes multiple cities or stops within a single booking process. It improves convenience for corporate clients, tourists, and VIP users by reducing the need for separate bookings and ensuring seamless route coordination.
 # F-16: Operator Dashboard for Aircraft Availability Management
 The Operator Dashboard allows helicopter service providers to monitor and manage the real-time availability of their aircraft. Operators can add, update, or disable helicopters based on operational status, maintenance schedules, and active bookings.
 # T-01: Implement User payment Page
@@ -33,4 +35,9 @@ This task involves creating The Live Interactive Map feature provides real-time 
 ## F-19:Implement Real-Time GPS Tracking of Helicopters Page
  This feature enables real-time GPS tracking of helicopters during flight, allowing passengers, operators, and emergency teams to monitor the helicopter’s live location, route, altitude, and estimated arrival time. It improves transparency, safety, and operational control throughout the journey.
 **Status: Implemented**
+# F-30: Implement Group Booking for Corporate Teams Page
+**Status: Implemented**
+## F-29: Round-Trip & One-Way Booking Options
+This feature allows users to choose between one-way and round-trip helicopter bookings based on their travel needs. It provides flexible scheduling, clear pricing for each option, and seamless management of return journeys within a single booking flow.
+**Status: Implemented
 
