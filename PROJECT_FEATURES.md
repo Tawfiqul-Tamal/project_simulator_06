@@ -22,6 +22,8 @@ This feature ensures that users receive instant booking confirmation through SMS
 
 # F-28: Implement User Multi-City Route Planning (Single Booking) page
 This feature allows users to plan and book a helicopter journey that includes multiple cities or stops within a single booking process. It improves convenience for corporate clients, tourists, and VIP users by reducing the need for separate bookings and ensuring seamless route coordination.
+# F-16: Operator Dashboard for Aircraft Availability Management
+The Operator Dashboard allows helicopter service providers to monitor and manage the real-time availability of their aircraft. Operators can add, update, or disable helicopters based on operational status, maintenance schedules, and active bookings.
 # T-01: Implement User payment Page
 This task involves creating a payment form component with This task involves creating a payment form component that allows users to securely enter payment details, review charges, and complete the transaction with confirmation feedback.
 # F-02: Implement User payment Page
