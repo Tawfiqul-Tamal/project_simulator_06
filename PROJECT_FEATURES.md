@@ -16,3 +16,7 @@ This task involvsautomatically notifies users about flight delays, rescheduling,
 This feature allows the system to offer discount codes and promotional campaigns to users to increase customer engagement and bookings. Users can apply valid promo codes during payment to receive discounted fares, while administrators can create, manage, and control promotional rules and validity periods.
 **Status: Implemented**
 
+# F-36: Implement Booking Confirmation via SMS, Email & App Notification Page
+This feature ensures that users receive instant booking confirmation through SMS, email, and in-app notifications after successfully completing a reservation. It improves reliability, user confidence, and communication by clearly confirming booking details and flight information.
+**Status: Implemented**
+
