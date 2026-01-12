@@ -20,3 +20,6 @@ This feature allows the system to offer discount codes and promotional campaigns
 This feature ensures that users receive instant booking confirmation through SMS, email, and in-app notifications after successfully completing a reservation. It improves reliability, user confidence, and communication by clearly confirming booking details and flight information.
 **Status: Implemented**
 
+# F-30: Implement Group Booking for Corporate Teams Page
+**Status: Implemented**
+
