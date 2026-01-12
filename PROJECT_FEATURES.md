@@ -20,3 +20,7 @@ This feature allows the system to offer discount codes and promotional campaigns
 This feature ensures that users receive instant booking confirmation through SMS, email, and in-app notifications after successfully completing a reservation. It improves reliability, user confidence, and communication by clearly confirming booking details and flight information.
 **Status: Implemented**
 
+# F-28: Implement User Multi-City Route Planning (Single Booking) page
+This feature allows users to plan and book a helicopter journey that includes multiple cities or stops within a single booking process. It improves convenience for corporate clients, tourists, and VIP users by reducing the need for separate bookings and ensuring seamless route coordination.
+**Status: Implemented**
+
